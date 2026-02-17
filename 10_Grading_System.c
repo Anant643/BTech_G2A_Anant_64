@@ -1,4 +1,4 @@
-// WAP that accerpts the marks of 5 subjects and claculatesd the perecentage of it then grades it based on a given criteria.
+// WAP that accerpts the marks of 5 subjects and claculates the perecentage of it then grades it based on a given criteria.
 
 #include <stdio.h>
 int main()
@@ -52,4 +52,5 @@ int main()
     }
 
     return 0;
+
 }
