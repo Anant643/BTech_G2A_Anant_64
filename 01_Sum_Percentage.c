@@ -1,4 +1,4 @@
-//WAP that accerpts the marks of 5 subjects and claculates the perecentage of it.
+//WAP that accepts the marks of 5 subjects and calculates the perecentage of it.
 
 
 #include <stdio.h>
@@ -29,3 +29,4 @@ int main()
     return 0;
 
 }
+
