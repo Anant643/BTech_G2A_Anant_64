@@ -31,7 +31,6 @@ int main()
         else
         {
             printf("Result = %.2f", (float)a / b);
-            break;
         }
         break;
     case '%':
@@ -42,7 +41,6 @@ int main()
         else
         {
             printf("Result = %d", a % b);
-            break;
         }
         break;
     default:
@@ -51,4 +49,5 @@ int main()
     }
 
     return 0;
+
 }
