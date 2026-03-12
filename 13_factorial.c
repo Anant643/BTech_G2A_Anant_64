@@ -2,13 +2,13 @@
 int main()
 {
     int n;
-    int long long fact = 1;
+    long long fact = 1;
     printf("Enter a number: ");
     scanf("%d", &n);
 
-    if (n <= 0)
+    if (n < 0)
     {
-        printf("Enter a number starting from 1.");
+        printf("Please enter a whole number.");
     }
     else
     {
@@ -20,4 +20,5 @@ int main()
     }
 
     return 0;
+
 }
