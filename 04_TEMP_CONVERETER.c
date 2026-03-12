@@ -31,6 +31,8 @@ int main()
         scanf("%f", &Far);
         Cel = (Far - 32) * 5.0 / 9.0;
         printf("Temperature in Celcius = %.2f", Cel);
+        break;
     }
     return 0;
+
 }
