@@ -1,4 +1,4 @@
-//WAP that accerpts the marks of 5 subjects and claculatesd the perecentage of it.
+//WAP that accerpts the marks of 5 subjects and claculates the perecentage of it.
 
 
 #include <stdio.h>
@@ -27,4 +27,5 @@ int main()
     percentage = (sum/500.0)*100;
     printf("Percentage = %.2f",percentage);
     return 0;
+
 }
