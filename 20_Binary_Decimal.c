@@ -1,3 +1,5 @@
+//WAP to convert binary number into decimal number and vice versa.
+
 #include <stdio.h>
 #include <math.h>
 
