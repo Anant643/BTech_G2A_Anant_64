@@ -11,7 +11,7 @@ int main()
     {
         int val = 1;
 
-        // Space formatting (for triangle shape)
+        
         for(int s = 0; s < n - i - 1; s++)
         {
             printf(" ");
@@ -21,7 +21,7 @@ int main()
         {
             printf("%d ", val);
 
-            // Update value using formula
+            
             val = val * (i - j) / (j + 1);
         }
 
